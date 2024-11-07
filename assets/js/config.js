@@ -22,18 +22,18 @@ const BACKGROUND_IMAGE = "assets/images/star.gif"; // Here is the background of 
 const STATUS = {
   dnd: {
     name: "Do not disturb", // Discord Status
-    color: "#ed4245",
+    color: "https://juicepoopooumgood.github.io/Api-guy/image_upscaled_object_removed.webp",
   },
   idle: {
     name: "Busy",
-    color: "#faa81a",
+    color: "https://juicepoopooumgood.github.io/Api-guy/image_upscaled_object_removed_3.webp",
   },
   online: {
     name: "Online",
-    color: "#3ba55d",
+    color: "https://juicepoopooumgood.github.io/Api-guy/image_upscaled_object_removed_3.webp",
   },
   offline: {
     name: "Offline",
-    color: "#6e7985",
+    color: "https://juicepoopooumgood.github.io/Api-guy/image_upscaled_object_removed_2.webp",
   },
 };
